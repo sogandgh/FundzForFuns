@@ -18,9 +18,7 @@ expenses, and the cupcake shrinks as you spend, warning you before you're out of
 
 ## Why
 
-College students — millennials generally — spend disproportionately on dining and going out
-relative to their income, encouraged by "food porn" social media culture. Most budgeting apps
-respond with spreadsheets and category breakdowns, which is exactly the kind of chore nobody
+College students spend disproportionately on dining and going out relative to their income, encouraged by "food porn" social media culture. Most budgeting apps respond with spreadsheets and category breakdowns, which is exactly the kind of chore nobody
 actually keeps up with. Fundz for Funz tries a different angle: one visual, one number, no
 spreadsheet. You know your budget's status at a glance because the cupcake tells you.
 
@@ -84,16 +82,6 @@ This shipped as a 24-hour hackathon prototype, not a production app, and it show
 - Monday reminders for unused fun budget
 - Financial tips
 - Long-term savings goal tracking
-
-## Team
-
-Built at Technica 2018 by:
-
-- **Sogand Ghods** — Android app, REST API integration, AWS/EC2 deployment
-- **Kimia Ahrabi**
-- **Naba Rizvi**
-
-With mentorship from Shayan Taslim (hackathon TA), who helped with the backend integration layer.
 
 ## License
 
