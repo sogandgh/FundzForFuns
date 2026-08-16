@@ -1,3 +1,6 @@
+> Built in 2018 at Technica; this repo was split out from the original shared team project and
+> published here in 2026.
+> 
 # Fundz for Funz 🧁
 
 *Making budgeting fun for college students.*
@@ -7,9 +10,6 @@ expenses, and the cupcake shrinks as you spend, warning you before you're out of
 
 🏆 **Best Financial Hack** (Capital One) and **Best AWS Hack** (AWS) — [Technica](https://gotechnica.org/) 2018
 📄 [Devpost submission](https://devpost.com/software/fundzforfunz)
-
-> Built in 2018 at Technica; this repo was split out from the original shared team project and
-> published here in 2026. Code and history are otherwise untouched from the hackathon.
 
 <p align="center">
   <img src="docs/cupcake-depletion.png" width="700" alt="Cupcake depleting from full to empty as budget is spent">
